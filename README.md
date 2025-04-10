@@ -1,5 +1,5 @@
 # Mahdi Bandegani | iOS Developer
-Software Engineer and iOS Developer with 6+ years of experience in designing, developing, and deploying iOS applications. Adept at problem-solving and delivering high-quality code. Fascinated by AI & ML, and loves to make things, break things, and fix things.
+Software Engineer and iOS Developer with 7+ years of experience in designing, developing, and deploying iOS applications. Adept at problem-solving and delivering high-quality code. Fascinated by AI & ML, and loves to make things, break things, and fix things.
 
 # Work Experience
 
